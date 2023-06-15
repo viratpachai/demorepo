@@ -1,0 +1,36 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+.parentcontainer
+{
+    width: 96%;
+    padding: 2%;
+    float: left;
+}
+.child1
+{
+    width: 46%;
+    padding: 2%;
+    float: left;
+}
+.child2
+{
+    width: 46%;
+    padding: 2%;
+    float: left;
+}
+.headstyle
+{
+    color:springgreen;
+    padding: 10px 20px;
+    border: blanchedalmond;
+    background-color:slategray;
+    width: 100%;
+}
+.woodimage
+{
+width: 500px;
+float: left;
+}
